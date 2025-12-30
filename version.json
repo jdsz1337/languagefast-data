@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "last_updated": "2025-12-30",
+    "total_size_mb": 53.8
+  },
+  "packages": {
+    "cat_beruf": {
+      "version": 1,
+      "filename": "cat_beruf.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_beruf.zip",
+      "size_bytes": 5043090,
+      "size_display": "5.0 MB"
+    },
+    "cat_divers": {
+      "version": 1,
+      "filename": "cat_divers.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_divers.zip",
+      "size_bytes": 4441885,
+      "size_display": "4.4 MB"
+    },
+    "cat_essen": {
+      "version": 1,
+      "filename": "cat_essen.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_essen.zip",
+      "size_bytes": 4996387,
+      "size_display": "5.0 MB"
+    },
+    "cat_gesund": {
+      "version": 1,
+      "filename": "cat_gesund.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_gesund.zip",
+      "size_bytes": 4968836,
+      "size_display": "5.0 MB"
+    },
+    "cat_kunst": {
+      "version": 1,
+      "filename": "cat_kunst.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_kunst.zip",
+      "size_bytes": 4950095,
+      "size_display": "5.0 MB"
+    },
+    "cat_mensch": {
+      "version": 1,
+      "filename": "cat_mensch.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_mensch.zip",
+      "size_bytes": 4919330,
+      "size_display": "4.9 MB"
+    },
+    "cat_natur": {
+      "version": 1,
+      "filename": "cat_natur.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_natur.zip",
+      "size_bytes": 4778306,
+      "size_display": "4.8 MB"
+    },
+    "cat_redew": {
+      "version": 1,
+      "filename": "cat_redew.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_redew.zip",
+      "size_bytes": 7585245,
+      "size_display": "7.6 MB"
+    },
+    "cat_reisen": {
+      "version": 1,
+      "filename": "cat_reisen.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_reisen.zip",
+      "size_bytes": 4949569,
+      "size_display": "4.9 MB"
+    },
+    "cat_tech": {
+      "version": 1,
+      "filename": "cat_tech.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_tech.zip",
+      "size_bytes": 4878039,
+      "size_display": "4.9 MB"
+    },
+    "cat_wohnen": {
+      "version": 1,
+      "filename": "cat_wohnen.zip",
+      "url": "https://jdsz1337.github.io/languagefast-data/cat_wohnen.zip",
+      "size_bytes": 4913462,
+      "size_display": "4.9 MB"
+    }
+  }
+}
