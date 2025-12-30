@@ -61,7 +61,7 @@
       "size_display": "7.6 MB"
     },
     "cat_reisen": {
-      "version": 1,
+      "version": 2,
       "filename": "cat_reisen.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_reisen.zip",
       "size_bytes": 4949569,
@@ -84,5 +84,6 @@
   }
 
 }
+
 
 
