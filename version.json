@@ -54,18 +54,18 @@
       "size_display": "4.8 MB"
     },
     "cat_redew": {
-      "version": 2,
+      "version": 3,
       "filename": "cat_redew.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_redew.zip",
-      "size_bytes": 8663920, 
-      "size_display": "8.3 MB"
+      "size_bytes": 7052971,
+      "size_display": "6.7 MB"
     },
     "cat_reisen": {
-      "version": 2,
+      "version": 3,
       "filename": "cat_reisen.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_reisen.zip",
-      "size_bytes": 5837427, 
-      "size_display": "5.7 MB"
+      "size_bytes": 5475444,
+      "size_display": "5.2 MB"
     },
     "cat_tech": {
       "version": 1,
