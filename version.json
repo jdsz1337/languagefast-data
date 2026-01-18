@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-12-30",
+    "last_updated": "2026-01-18",
     "total_size_mb": 53.8
   },
   "packages": {
@@ -19,11 +19,11 @@
       "size_display": "4.4 MB"
     },
     "cat_essen": {
-      "version": 1,
+      "version": 4,
       "filename": "cat_essen.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_essen.zip",
-      "size_bytes": 4996387,
-      "size_display": "5.0 MB"
+      "size_bytes": 4714928,
+      "size_display": "4.5 MB"
     },
     "cat_gesund": {
       "version": 1,
@@ -54,17 +54,17 @@
       "size_display": "4.8 MB"
     },
     "cat_redew": {
-      "version": 3,
+      "version": 4,
       "filename": "cat_redew.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_redew.zip",
-      "size_bytes": 7052971,
+      "size_bytes": 7055577,
       "size_display": "6.7 MB"
     },
     "cat_reisen": {
-      "version": 3,
+      "version": 4,
       "filename": "cat_reisen.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_reisen.zip",
-      "size_bytes": 5475444,
+      "size_bytes": 5488923,
       "size_display": "5.2 MB"
     },
     "cat_tech": {
