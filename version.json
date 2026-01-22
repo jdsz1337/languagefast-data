@@ -5,11 +5,11 @@
   },
   "packages": {
     "cat_beruf": {
-      "version": 2,
+      "version": 4,
       "filename": "cat_beruf.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_beruf.zip",
-      "size_bytes": 5043090,
-      "size_display": "5.0 MB"
+      "size_bytes": 4980840,
+      "size_display": "4.75 MB"
     },
     "cat_divers": {
       "version": 1,
