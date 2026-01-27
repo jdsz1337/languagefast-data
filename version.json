@@ -26,11 +26,11 @@
       "size_display": "4.5 MB"
     },
     "cat_gesund": {
-      "version": 1,
+      "version": 4,
       "filename": "cat_gesund.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_gesund.zip",
-      "size_bytes": 4968836,
-      "size_display": "5.0 MB"
+      "size_bytes": 5694458,
+      "size_display": "5.4 MB"
     },
     "cat_kunst": {
       "version": 1,
@@ -68,11 +68,11 @@
       "size_display": "5.2 MB"
     },
     "cat_tech": {
-      "version": 1,
+      "version": 4,
       "filename": "cat_tech.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_tech.zip",
-      "size_bytes": 4878039,
-      "size_display": "4.9 MB"
+      "size_bytes": 5584826,
+      "size_display": "5.3 MB"
     },
     "cat_wohnen": {
       "version": 1,
