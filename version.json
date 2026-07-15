@@ -1,78 +1,78 @@
 {
   "meta": {
-    "last_updated": "2026-01-18",
-    "total_size_mb": 53.8
+    "last_updated": "2026-07-15",
+    "total_size_mb": 70.3
   },
   "packages": {
     "cat_beruf": {
-      "version": 12,
+      "version": 15,
       "filename": "cat_beruf.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_beruf.zip",
-      "size_bytes": 7755725,
-      "size_display": "7.57 MB"
+      "size_bytes": 7766927,
+      "size_display": "7.6 MB"
     },
     "cat_divers": {
-      "version": 12,
+      "version": 15,
       "filename": "cat_divers.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_divers.zip",
-      "size_bytes": 7474018,
-      "size_display": "7.29 MB"
+      "size_bytes": 7477851,
+      "size_display": "7.3 MB"
     },
     "cat_essen": {
-      "version": 12,
+      "version": 15,
       "filename": "cat_essen.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_essen.zip",
-      "size_bytes": 7207857,
-      "size_display": "7.03 MB"
+      "size_bytes": 7238613,
+      "size_display": "7.1 MB"
     },
     "cat_gesund": {
-      "version": 4,
+      "version": 15,
       "filename": "cat_gesund.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_gesund.zip",
-      "size_bytes": 5694458,
-      "size_display": "5.4 MB"
+      "size_bytes": 5697939,
+      "size_display": "5.6 MB"
     },
     "cat_kunst": {
-      "version": 6,
+      "version": 15,
       "filename": "cat_kunst.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_kunst.zip",
-      "size_bytes": 5644036,
-      "size_display": "5.38 MB"
+      "size_bytes": 5657728,
+      "size_display": "5.5 MB"
     },
     "cat_mensch": {
-      "version": 12,
+      "version": 15,
       "filename": "cat_mensch.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_mensch.zip",
-      "size_bytes": 8017598,
-      "size_display": "7.64 MB"
+      "size_bytes": 8006838,
+      "size_display": "7.8 MB"
     },
     "cat_natur": {
-      "version": 1,
+      "version": 15,
       "filename": "cat_natur.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_natur.zip",
-      "size_bytes": 5321430,
-      "size_display": "5.1 MB"
+      "size_bytes": 5329451,
+      "size_display": "5.2 MB"
     },
     "cat_redew": {
-      "version": 4,
+      "version": 15,
       "filename": "cat_redew.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_redew.zip",
-      "size_bytes": 7055577,
-      "size_display": "6.7 MB"
+      "size_bytes": 7046189,
+      "size_display": "6.9 MB"
     },
     "cat_reisen": {
-      "version": 12,
+      "version": 15,
       "filename": "cat_reisen.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_reisen.zip",
-      "size_bytes": 8613367,
-      "size_display": "8.21 MB"
+      "size_bytes": 8599562,
+      "size_display": "8.4 MB"
     },
     "cat_tech": {
-      "version": 4,
+      "version": 15,
       "filename": "cat_tech.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_tech.zip",
-      "size_bytes": 5584826,
-      "size_display": "5.3 MB"
+      "size_bytes": 5584950,
+      "size_display": "5.5 MB"
     },
     "cat_survival": {
       "version": 1,
@@ -82,11 +82,11 @@
       "size_display": "1.66 MB"
     },
     "cat_wohnen": {
-      "version": 1,
+      "version": 15,
       "filename": "cat_wohnen.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_wohnen.zip",
-      "size_bytes": 5433434,
-      "size_display": "5.1 MB"
+      "size_bytes": 5400591,
+      "size_display": "5.3 MB"
     }
   }
 }
