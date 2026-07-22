@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-16",
-    "total_size_mb": 77.5
+    "last_updated": "2026-07-22",
+    "total_size_mb": 55.3
   },
   "packages": {
     "cat_beruf": {
@@ -26,18 +26,18 @@
       "size_display": "7.1 MB"
     },
     "cat_gesund": {
-      "version": 16,
+      "version": 17,
       "filename": "cat_gesund.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_gesund.zip",
-      "size_bytes": 5697939,
-      "size_display": "5.6 MB"
+      "size_bytes": 7758310,
+      "size_display": "7.8 MB"
     },
     "cat_kunst": {
-      "version": 16,
+      "version": 17,
       "filename": "cat_kunst.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_kunst.zip",
-      "size_bytes": 5657728,
-      "size_display": "5.5 MB"
+      "size_bytes": 8117211,
+      "size_display": "8.1 MB"
     },
     "cat_mensch": {
       "version": 17,
@@ -47,11 +47,11 @@
       "size_display": "7.8 MB"
     },
     "cat_natur": {
-      "version": 16,
+      "version": 17,
       "filename": "cat_natur.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_natur.zip",
-      "size_bytes": 5329451,
-      "size_display": "5.2 MB"
+      "size_bytes": 7769502,
+      "size_display": "7.7 MB"
     },
     "cat_redew": {
       "version": 16,
@@ -68,11 +68,11 @@
       "size_display": "11.3 MB"
     },
     "cat_tech": {
-      "version": 16,
+      "version": 17,
       "filename": "cat_tech.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_tech.zip",
-      "size_bytes": 5584950,
-      "size_display": "5.5 MB"
+      "size_bytes": 7726293,
+      "size_display": "7.7 MB"
     },
     "cat_survival": {
       "version": 17,
@@ -82,11 +82,11 @@
       "size_display": "4.2 MB"
     },
     "cat_wohnen": {
-      "version": 16,
+      "version": 17,
       "filename": "cat_wohnen.zip",
       "url": "https://jdsz1337.github.io/languagefast-data/cat_wohnen.zip",
-      "size_bytes": 5400591,
-      "size_display": "5.3 MB"
+      "size_bytes": 7639388,
+      "size_display": "7.6 MB"
     }
   }
 }
